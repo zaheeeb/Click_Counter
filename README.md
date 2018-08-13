@@ -1,2 +1,2 @@
 # Click_Counter
-React JS div counter
+React JS div click counter
